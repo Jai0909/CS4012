@@ -1,0 +1,15 @@
+>Main
+	Home.html
+	AboutUs.html
+	Blog.html
+	ContactUs.html
+	Gallery.html
+	Main.css
+	>Sources
+		icon.png
+		logo.png
+		opensans.ttf
+	>AboutUs
+	>Blog
+	>ContactUs
+	>Gallery
